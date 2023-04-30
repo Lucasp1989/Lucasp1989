@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="ARG | TNT SPORTS SD" tvg-logo="https://logos.xbots.com.mx/41050.png" group-title="DEPORTES",ARG | TNT SPORTS SD
+http://live.reystream.us:8080/karen34xt/834vsxk5x/31415
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ARG | ESPN PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ARG | ESPN PREMIUM
+http://live.reystream.us:8080/karen34xt/834vsxk5x/474
